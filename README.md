@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Md. Rabbi</h1>
-<h3 align="center">🖥️ Aspiring Front-End Dev | Book Lover 📖 |🌐 Crafting digital experiences with HTML, CSS, and JavaScript.</h3>
+<h3 align="center">🖥️ Aspiring Front-End Dev |🌐 Crafting digital experiences with HTML, CSS, and JavaScript.</h3>
 
 - 🌱 I’m currently learning **React, Figma**
 
